@@ -19,6 +19,17 @@
 - Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
+## Significant Variables
+1. cas_to_registered
+2. yr
+3. winter
+4. misty
+5. rainy_or_snowy
+6. spring
+7. workingday
+8. windspeed
+9. summer
+
 ## Conclusions
 - as the number of casual users increase, more people become interested in bike sharing service and register themselves for the same.
 - we can see that yearr has positive impact on cnt, which means from 2018 to 2019 more people are using the service. i.e bike sharing services are gaining popularity.
@@ -27,6 +38,7 @@
 - if windspeed is high then too driving bikes becomes difficult.
 - more people use bike service on a workingday than on a holiday.
 - spring has a negative coefficient which is surprising. It might mean that holidays of school kids fall during spring break and hence people move to their hometowns or spend time with their family which leads to less usage of bike service.
+- summer also has a negative coefficient indicating that during hot days people prefer cars rather than bikes since cars have AC in them.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
