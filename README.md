@@ -44,7 +44,6 @@
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
 - This project was inspired by UpGrad Linear Regression Course
 - References - google.com, quora.com, stackoverflow.com
 
@@ -53,8 +52,4 @@ Give credit here.
 Created by zuhu2195 - feel free to contact me!
 
 
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
 
-<!-- You don't have to include all sections - just the one's relevant to your project -->
